@@ -1,0 +1,99 @@
+,Column,Null Count
+0,Country,0
+1,Region,0
+2,  Ranking Status Index,0
+3,  S | Status Index,0
+4,  Ranking Democracy Status,0
+5,  SI | Democracy Status,0
+6,  Q1 | Stateness,0
+7,  Q1.1 | Monopoly on the use of force,0
+8,  Q1.2 | State identity,0
+9,  Q1.3 | No interference of religious dogmas,0
+10,  Q1.4 | Basic administration,0
+11,  Q2 | Political Participation,0
+12,  Q2.1 | Free and fair elections,0
+13,  Q2.2 | Effective power to govern,0
+14,  Q2.3 | Association / assembly rights,0
+15,  Q2.4 | Freedom of expression,0
+16,  Q3 | Rule of Law,0
+17,  Q3.1 | Separation of powers,0
+18,  Q3.2 | Independent judiciary,0
+19,  Q3.3 | Prosecution of office abuse,0
+20,  Q3.4 | Civil rights,0
+21,  Q4 | Stability of Democratic Institutions,0
+22,  Q4.1 | Performance of democratic institutions,0
+23,  Q4.2 | Commitment to democratic institutions,0
+24,  Q5 | Political and Social Integration,0
+25,  Q5.1 | Party system,0
+26,  Q5.2 | Interest groups,0
+27,  Q5.4 | Social capital,0
+28,  Ranking Economy Status,0
+29,  SII | Economy Status,0
+30,  Q6 | Level of Socioeconomic Development,0
+31,  Q6.1 | Socioeconomic barriers,0
+32,  Q7 | Organization of the Market and Competition,0
+33,  Q7.1 | Market organization,0
+34,  Q7.2 | Competition policy,0
+35,  Q7.3 | Liberalization of foreign trade,0
+36,  Q7.4 | Banking system,0
+37,  Q8 | Monetary and Fiscal Stability,0
+38,  Q8.1 | Monetary stability,0
+39,  Q8.2 | Fiscal stability,0
+40,  Q9 | Private Property,0
+41,  Q9.1 | Property rights,0
+42,  Q9.2 | Private enterprise,0
+43,  Q10 | Welfare Regime,0
+44,  Q10.1 | Social safety nets,0
+45,  Q10.2 | Equal opportunity,0
+46,  Q11 | Economic Performance,0
+47,  Q11.1 | Output strength,0
+48,  Q12 | Sustainability,0
+49,  Q12.1 | Environmental policy,0
+50,  Q12.2 | Education / R&D policy,0
+51,  Ranking Governance Index,1
+52,  G | Governance Index,1
+53,  Q13 | Level of Difficulty,0
+54,  Q13.1 | Structural constraints,0
+55,  Q13.2 | Civil society traditions,0
+56,  Q13.3 | Conflict intensity,0
+57,  Q13.4 | GNI p.c. Atlas method rescaled,0
+58,  Q13.5 | UN Educ. Index rescaled,0
+59,  Q13.6 | BTI Stateness & Rule of Law,0
+60,  GII | Governance Performance,1
+61,  Q14 | Steering Capability,1
+62,  Q14.1 | Prioritization,1
+63,  Q14.2 | Implementation,1
+64,  Q14.3 | Policy learning,1
+65,  Q15 | Resource Efficiency,1
+66,  Q15.1 | Efficient use of assets,1
+67,  Q15.2 | Policy coordination,1
+68,  Q15.3 | Anti-corruption policy,1
+69,  Q16 | Consensus-Building,1
+70,  Q16.1 | Consensus on goals,1
+71,  Q16.2 | Anti-democratic actors,1
+72,  Q16.3 | Cleavage / conflict management,1
+73,  Q17 | International Cooperation,1
+74,  Q17.1 | Effective use of support,1
+75,  Q17.2 | Credibility,1
+76,  Q17.3 | Regional cooperation,1
+77,  Total,0
+78,Democracy/Autocracy,0
+79,  S | Status Index.1,0
+80,  Category,0
+81,Status Index,0
+82,  SI | Democracy Status.1,0
+83,  Category.1,0
+84,Democracy Status,0
+85,  SII | Economy Status.1,0
+86,  Category.2,0
+87,Economy Status,0
+88,  G | Governance Index.1,1
+89,  Category.3,1
+90,Governance Index,1
+91,  Q13 | Level of Difficulty.1,0
+92,  Category.4,0
+93,0.4,0
+94,  GII | Governance Performance.1,1
+95,  Category.5,1
+96,Governance Performance,1
+97,Year,0
